@@ -17,7 +17,7 @@
      [<img src="https://user-images.githubusercontent.com/45472327/168184288-25d28b81-1ef7-477f-82c9-ab2371a90a4d.png" width="40" height="40"/>](https://en.wikipedia.org/wiki/SWIFT)
      
       [<img src="https://user-images.githubusercontent.com/45472327/168184210-6493cb7a-e403-4f11-904b-688bdc723dcf.jpeg" width="40" height="40"/>]
-(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFss_6k9v3AhXdS_EDHbL8ArcQFnoECAQQAw&url=https%3A%2F%2Fdeveloper.apple.com%2Flibrary%2Farchive%2Fdocumentation%2FCocoa%2FConceptual%2FProgrammingWithObjectiveC%2FIntroduction%2FIntroduction.html&usg=AOvVaw35dvog2cj0142Oxcr7TM2O)
+(https://en.wikipedia.org/wiki/Objective-C)
 
 [<img src="https://user-images.githubusercontent.com/45472327/168184112-4b34ecd0-219e-4d78-903d-4f6fdcf280f5.png" width="40" height="40"/>](https://developer.android.com)     
 
