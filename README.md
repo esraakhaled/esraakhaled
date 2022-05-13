@@ -1,6 +1,18 @@
 <h1> Hi, I'm Esraa Khaled 👋</h1>
 <h2>A Software Engineer (ios) from Egypt</h2>
- 
+ h1 {
+    width:500px;
+    margin: 0 auto;
+    background: gray;
+    text-align: center;
+}
+ h2 {
+    width:500px;
+    margin: 0 auto;
+    background: gray;
+    text-align: center;
+}
+
 - 🔭 I’m currently Trainee at ITI Mobile Native (IOS/Android)
 
 - 🌱 I’m currently learning Ios Development With Swift
