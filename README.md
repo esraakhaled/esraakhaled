@@ -1,7 +1,7 @@
 <h1> Hi, I'm Esraa Khaled 👋</h1>
 <h2> A Software Engineer (ios) from Egypt</h2>
 
-- 🔭 I’m currently Trainee at ITI Mobile Native (IOS/Android)
+- 🔭 I’m currently Graduate from ITI Mobile Native (IOS/Android)
 
 - 🌱 I’m currently learning Ios Development With Swift
 
