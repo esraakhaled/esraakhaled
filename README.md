@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Graduate from ITI Mobile Native (IOS/Android)
 
-- 🌱 I’m currently learning Ios Development With Swift
+- 🌱 I’m currently Intern IOS  Developer at Emcan Solutions
 
 - 💬 Ask me about IOS
 
