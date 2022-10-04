@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently Graduate from ITI Mobile Native (IOS/Android)
 
-- 🌱 I’m a Previous Intern IOS  Developer at Emcan Solutions
+- 🌱 I’m currently learning ios development 
+
+-  🏠 I’m a Previous Intern IOS  Developer at Emcan Solutions
 
 - 💬 Ask me about IOS
 
