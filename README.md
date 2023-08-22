@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Graduate from ITI Mobile Native (IOS/Android)
 
-- 🌱 I’m currently Learning IOS
+- 🌱 I’m currently Learning IOS Development
 
 -  🏠 I’m a Previous Intern IOS  Developer at Motoon
 
